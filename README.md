@@ -52,5 +52,5 @@ Embedded Track `2023-07-05 ~`
 />
 
 ### Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjsgnl519)](https://solved.ac/ondol/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ondol)](https://solved.ac/ondol/)
 <br/>
