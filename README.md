@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=150&section=header&text=Gaon%20Park&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-# Careers + Projects
+# Careers
 
 ## [@teamLab inc.](https://github.com/team-lab)
 
@@ -219,7 +219,10 @@ MSA 스타일을 적용한 항공권 예약 시스템 (2020.04 ~ 2021.02)
 </div>
 </details>
 
----
+# Experience
+### 삼성 청년 SW 아카데미 SSAFY 10th
+Embedded Track `2023-07-05 ~`
+
 ### 사이드 프로젝트
 <details>
 <summary>
@@ -275,10 +278,6 @@ MSA 스타일을 적용한 항공권 예약 시스템 (2020.04 ~ 2021.02)
 
 </div>
 </details>
-
-# Experience
-### 삼성 청년 SW 아카데미 SSAFY 10th
-Embedded Track `2023-07-05 ~`
 
 # Skills
 ### Language 
