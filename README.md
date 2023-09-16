@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=150&section=header&text=Gaon%20Park&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-# Careers
+# Careers + Projects
 
 ## [@teamLab inc.](https://github.com/team-lab)
 
@@ -218,7 +218,63 @@ MSA 스타일을 적용한 항공권 예약 시스템 (2020.04 ~ 2021.02)
 
 </div>
 </details>
-    
+
+---
+### 사이드 프로젝트
+<details>
+<summary>
+레벨업 페이스 계산기 (2022.10 ~ 2022.11)
+</summary>
+<div markdown="1">
+
+> 개요
+> 
+- 평소 즐겨하는 게임 '메이플스토리'의 비공식 SOAP API를 활용하여 등록된 대표캐릭터의 정보를 취득
+- 사용자의 경험치 상승 페이스를 분석하여 목표 레벨까지 도달할 수 있는 날짜를 예측
+
+> 기술 스택
+> 
+
+<table>
+    <thead>
+        <tr>
+            <th>분류</th>
+            <th>기술</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Language</td>
+            <td>Kotlin</td>
+        </tr>
+        <tr>
+            <td>Framework</td>
+            <td>SpringBoot</td>
+        </tr>
+        <tr>
+            <td>DB</td>
+            <td>MySQL</td>
+        </tr>
+    </tbody>
+</table>
+
+> 블로그 기록
+> 
+1. **[메이플스토리 API를 이용하여 대표캐릭터 정보를 불러오는 API](https://ondol-diary.tistory.com/3)**
+2. **[Jsoup를 이용한 캐릭터 정보 탐색](https://ondol-diary.tistory.com/4)**
+3. **[Json PropertyNamingStrategy](https://ondol-diary.tistory.com/5)**
+
+> API List
+> 
+1. [유저 신규 등록 API](https://github.com/gaon-park/viper-backend/blob/master/README.md#%EC%9C%A0%EC%A0%80-%EC%8B%A0%EA%B7%9C-%EB%93%B1%EB%A1%9D-api)
+2. [로그인 API](https://github.com/gaon-park/viper-backend/blob/master/README.md#%EB%A1%9C%EA%B7%B8%EC%9D%B8-api)
+3. [캐릭터 정보 요청 API](https://github.com/gaon-park/viper-backend/blob/master/README.md#%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%A0%95%EB%B3%B4-%EC%9A%94%EC%B2%AD-api)
+4. [배치 수동 실행](https://github.com/gaon-park/viper-backend/blob/master/README.md#%EB%B0%B0%EC%B9%98-%EC%88%98%EB%8F%99-%EC%8B%A4%ED%96%89)
+5. [경험치 분석 API](https://github.com/gaon-park/viper-backend/blob/master/README.md#%EA%B2%BD%ED%97%98%EC%B9%98-%EB%B6%84%EC%84%9D-api)
+6. [데이터 이력 API](https://github.com/gaon-park/viper-backend/blob/master/README.md#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B4%EB%A0%A5-api)
+
+</div>
+</details>
 
 # Experience
 ### 삼성 청년 SW 아카데미 SSAFY 10th
