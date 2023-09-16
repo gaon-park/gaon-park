@@ -224,6 +224,96 @@ MSA 스타일을 적용한 항공권 예약 시스템 (2020.04 ~ 2021.02)
 Embedded Track `2023-07-05 ~`
 
 ### 사이드 프로젝트
+
+<details>
+<summary>메이플 유틸 사이트 (2023.01 ~ 2023.04)</summary>
+<div markdown="1">
+
+> 개요
+> 
+- 메이플스토리 확률형 아이템 기록 검증기, 공유 캘린더 (유틸 사이트 백엔드 서버)
+- [큐브 사용 결과 API](https://developers.nexon.com/Maplestory/api/15/47) 사용
+- 확률형 아이템의 기록을 검색하고 공시 확률의 정확도를 검증
+- 파티플레이를 위한 공유 캘린더 기능
+- 유저 간 팔로우 시스템 구현
+- repo
+    - backend: https://github.com/gaon-park/ms-calendar-for-backend/tree/master
+    - frontend: https://github.com/gaon-park/ms-calendar-for-frontend
+
+> 기술 스택 (backend)
+> 
+
+<table>
+    <thead>
+        <tr>
+            <th>분류</th>
+            <th>기술</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Language</td>
+            <td>Kotlin</td>
+        </tr>
+        <tr>
+            <td>Framework</td>
+            <td>SprintBoot</td>
+        </tr>
+        <tr>
+            <td>DB</td>
+            <td>MySQL</td>
+        </tr>
+        <tr>
+            <td rowspan="4">GCP</td>
+            <td>Compute Engine</td>
+        </tr>
+        <tr>
+            <td>IAM</td>
+        </tr>
+        <tr>
+            <td>Cloud Storage</td>
+        </tr>
+        <tr>
+            <td>VPC 네트워크</td>
+        </tr>
+        <tr>
+            <td>Server</td>
+            <td>Nginx (Reverse Proxy)</td>
+        </tr>
+    </tbody>
+</table>
+
+> 상세 API (swagger)
+>
+
+- json 형식: https://github.com/gaon-park/ms-calendar-for-backend/blob/master/api-docs.json
+- yaml 형식: https://github.com/gaon-park/ms-calendar-for-backend/blob/master/api-docs.yml
+- 로컬 서버 기동시: http://127.0.0.1/api-docs/
+- 서비스 서버: https://ms-hero.kr/api-docs/
+    ** 관리자 ID/PW 필요
+
+> 개발 내용
+>
+1. Google OAuth를 사용해 email정보를 연계받아 신규 회원 등록, 로그인하는 시스템 설계 및 개발
+2. 토큰 기반 인증 시스템에 refresh token을 도입하여 안정성 강화
+3. follow/follwer 관계 기반 테이블 설계
+4. 공유 캘린더 관련 테이블 설계
+5. 일정 초대, 신규 팔로워 등의 정보 실시간 알림 기능 개발
+6. 넥슨 공식 api를 이용한 확률형 아이템 사용 결과 검색 시스템 개발
+7. 아이템별 확률형 아이템의 실 확률 검증 시스템 개발
+8. quartz 라이브러리를 사용해 주기적으로 등록된 유저의 정보를 수집하는 배치 프로그램 개발
+9. nginx reverse proxy로 하나의 서버에서 백, 프론트 운용
+10. 검색 속도를 위해 테이블 구조 개선
+
+> 결과
+>
+- 약 3개월간 회원가입자 950명
+- 확률형 아이템 기록 확인에 필요한 key등록자 420명
+- 분석가능한 데이터 누적 300만여건 수집
+
+</div>
+</details>
+
 <details>
 <summary>
 레벨업 페이스 계산기 (2022.10 ~ 2022.11)
@@ -232,7 +322,7 @@ Embedded Track `2023-07-05 ~`
 
 > 개요
 > 
-- 평소 즐겨하는 게임 '메이플스토리'의 비공식 SOAP API를 활용하여 등록된 대표캐릭터의 정보를 취득
+- '메이플스토리'의 비공식 SOAP API를 활용하여 등록된 대표캐릭터의 정보를 취득
 - 사용자의 경험치 상승 페이스를 분석하여 목표 레벨까지 도달할 수 있는 날짜를 예측
 - repo: https://github.com/gaon-park/viper-backend
 
