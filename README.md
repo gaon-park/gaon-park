@@ -234,6 +234,7 @@ Embedded Track `2023-07-05 ~`
 > 
 - 평소 즐겨하는 게임 '메이플스토리'의 비공식 SOAP API를 활용하여 등록된 대표캐릭터의 정보를 취득
 - 사용자의 경험치 상승 페이스를 분석하여 목표 레벨까지 도달할 수 있는 날짜를 예측
+- repo: https://github.com/gaon-park/viper-backend
 
 > 기술 스택
 > 
