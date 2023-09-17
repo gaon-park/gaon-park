@@ -237,7 +237,7 @@ Embedded Track `2023-07-05 ~`
 - 파티플레이를 위한 공유 캘린더 기능
 - 유저 간 팔로우 시스템 구현
 - repo
-    - backend: https://github.com/gaon-park/ms-calendar-for-backend/tree/master
+    - backend: https://github.com/gaon-park/ms-calendar-for-backend
     - frontend: https://github.com/gaon-park/ms-calendar-for-frontend
 
 > 기술 스택 (backend)
