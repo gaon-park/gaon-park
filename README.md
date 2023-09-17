@@ -283,6 +283,12 @@ Embedded Track `2023-07-05 ~`
     </tbody>
 </table>
 
+> 운영 관련 (메이플 inven 이용)
+>
+- [테스트 도움!! 큐브 기록 검색 사이트](https://www.inven.co.kr/board/maple/5974/940125)
+- [나의 등업 확률을 확인하자! 기능 설명편](https://www.inven.co.kr/board/maple/5974/989320)
+- [서버 내립니다😥](https://www.inven.co.kr/board/maple/5974/1400582)
+
 > 상세 API (swagger)
 >
 
