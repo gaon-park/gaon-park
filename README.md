@@ -5,7 +5,7 @@
 | type          | name | level  | issuing authority | issue date |
 |---------------|------|--------|-------------------|------------|
 | Algorithm       | 삼성 SW 역량 테스트  | B형    | 삼성       | 2023.09.23 |
-| Language (EN) | OPIc | IM2    | Multicampus       | 2023.08.27 |
+| Language (EN) | OPIc | IM2    | ACTFL       | 2023.08.27 |
 | Language (JP) | JLPT | N1     |  公益財団法人日本国際教育支援協会  | 2021.12.05 |
 | CS            | 정보처리 | 기사 |  한국산업인력공단                 | 2019.05.22 |
 
