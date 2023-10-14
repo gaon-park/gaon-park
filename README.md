@@ -181,13 +181,14 @@ BE 5명 (기여도 40%: *서버 개발 기준*)
 
 > 기술 스택 (backend)
 
-| 분류        | 기술                                                            |
-|-----------|---------------------------------------------------------------|
-| Language  | - Kotlin                                                      |
-| Framework | - SprintBoot                                                  |
-| DB        | - MySQL                                                       |
-| GCP       | - Compute Engine<br/>- IAM<br/>- Cloud Storage<br/>- VPC 네트워크 |
-| Server    | - Nginx (Reverse Proxy)                                       |
+| 분류        | 기술                                                                |
+|-----------|-------------------------------------------------------------------|
+| Language  | - Kotlin<br/>- TypeScript                                         |
+| Framework | - SprintBoot<br/>- Next.js                                        |
+| DB        | - MySQL                                                           |
+| GCP       | - Compute Engine <br/>- IAM <br/>- Cloud Storage <br/>- VPC 네트워크  |
+| Server    | - Nginx (Reverse Proxy)                                           |
+| Tools     | - Docker                                                          |
 
 #### 2. 레벨업 페이스 계산기 (2022.10 ~ 2022.11)
 
