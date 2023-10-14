@@ -176,8 +176,8 @@ BE 5명 (기여도 40%: *서버 개발 기준*)
 - 파티플레이를 위한 공유 캘린더 기능
 - 유저 간 팔로우 시스템 구현
 - 상세 내용 repo
-    - backend: https://github.com/gaon-park/ms-calendar-for-backend
-    - frontend: https://github.com/gaon-park/ms-calendar-for-frontend
+	- backend: https://github.com/gaon-park/ms-calendar-for-backend
+	- frontend: https://github.com/gaon-park/ms-calendar-for-frontend
 
 > 기술 스택 (backend)
 
