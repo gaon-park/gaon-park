@@ -1,25 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=150&section=header&text=Gaon%20Park&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 # Index
 
+- [Skills](#skills)
 - [Certificates](#certificates)
 - [Careers](#careers)
-  * teamLab inc (2020-04-01 ~ 2022-09-30)
-    + 업무 내용
-    + 진행 프로젝트
-        1. 중소기업/지원기업 매칭 시스템 (2022.05 ~ 2022.09)
-        2. 결혼식장, 쥬얼리숍 예약 시스템 (2021.02 ~ 2022.09.30)
-        3. MSA 스타일을 적용한 항공권 예약 시스템 (2020.04 ~ 2021.02)
 - [Experience](#experience)
-    + 삼성 청년 SW 아카데미 SSAFY 10th Embedded Track
 - [Side Project](#side-project)
-    + 규모 한 달 이상
-        1. 메이플 유틸 사이트 (2023.01 ~ 2023.04)
-        2. 레벨업 페이스 계산기 (2022.10 ~ 2022.11)
-        3. SpringMVC based Mini Instagram (2019.07 ~ 2019.08)
-    + 규모 한 달 미만
-        1. Order System (2023.09)
-- [Skills](#skills)
 - [Algorithm](#algorithm)
+
+# Skills
+
+| 분류        | 기술                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Language  | - <img  src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=coffeescript&logoColor=white" /><br/>- <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"><br/>- <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&&logoColor=white"><br/>- <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&&logoColor=white"><br/>- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <br/>- <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> |
+| Database  | - <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" /><br/>- <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Framework | - <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" /><br/>- <img src="https://img.shields.io/badge/Spring_boot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"/><br/>- <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">                                                                                                                                                                                                                                                                                                                                                  |
+| Tools     | - <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"/><br/>- <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"><br/>- <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><br/>- <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">                                                                                                                                                                                                                                                            |
+| IDE       | - <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/><br/>- <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"><br/>- <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>                                                                                                                                                                                                                                                                                                                           |
 
 # Certificates
 
@@ -34,7 +30,13 @@
 
 ## [@teamLab inc.](https://github.com/team-lab)
 
-Web Backend Developer `2020-04-01 ~ 2022-09-30`
+| 분류    | 상세                                                                                   |
+|-------|--------------------------------------------------------------------------------------|
+| 회사명   | [teamLab inc.](https://www.team-lab.com/) <br/>(チームラボ株式会社)                                                        |
+| 근무 기간 | 2020-04-01 ~ 2022-09-30                                                              |
+| 소재지   | 도쿄도 치요다구 간다 오가와마치 2-12 오가와 진흥 빌딩 6층<br/>(東京都千代田区神田小川町2-12 小川町進興ビル 受付 6階)             |
+| 부서    | Package Team / 사원                                                                    |
+| 업무 내용 | 애플리케이션 개발의 기획/개발/운영<br/>- 백엔드 서버 REST API 개발<br/>- 기존 웹 프로젝트 운영 및 백엔드 서버 기능 추가/유지 보수 |
 
 ### 업무 내용  
 
@@ -105,7 +107,7 @@ BE 5명 (기여도 40%: *서버 개발 기준*)
 5. PageSpeed Insights 분석
 6. 웹 사이트 내의 데이터 수집과 간단한 수정의 테스트 자동화
 
-#### 3. MSA 스타일을 적용한 항공권 예약 시스템 (2020.04 ~ 2021.02)
+#### 3. 항공권 예약 시스템 (2020.04 ~ 2021.02)
 
 > 개요
 
@@ -166,9 +168,7 @@ BE 5명 (기여도 40%: *서버 개발 기준*)
 
 # Side Project
 
-### 규모 한 달 이상
-
-#### 1. 메이플 유틸 사이트 (2023.01 ~ 2023.04)
+### 1. 메이플 유틸 사이트 (2023.01 ~ 2023.04)
 
 > 개요
 
@@ -192,7 +192,7 @@ BE 5명 (기여도 40%: *서버 개발 기준*)
 | Server    | - Nginx (Reverse Proxy)                                           |
 | Tools     | - Docker                                                          |
 
-#### 2. 레벨업 페이스 계산기 (2022.10 ~ 2022.11)
+### 2. 레벨업 페이스 계산기 (2022.10 ~ 2022.11)
 
 > 개요
 
@@ -208,7 +208,7 @@ BE 5명 (기여도 40%: *서버 개발 기준*)
 | Framework | SpringBoot |
 | DB        | MySQL      |
 
-#### 3. SpringMVC based Mini Instagram (2019.07 ~ 2019.08)
+### 3. SpringMVC based Mini Instagram (2019.07 ~ 2019.08)
 
 > 개요
 
@@ -225,36 +225,6 @@ BE 5명 (기여도 40%: *서버 개발 기준*)
 | Back End  | - Spring MVC<br/>- JDBC<br/>- MyBatis          |
 | Front End | - jQuery<br/>- AJAX<br/>- JSON<br/>- Bootstrap |
 | API       | Google Map API                                 |
-
-### 규모 한 달 미만
-
-#### 1. Order System (2023.09)
-
-> 개요
-
-- 주문 관리 시스템 
-- 상세 내용 repo
-	- back: https://github.com/gaon-park/order_system_nodejs
-	- front: https://github.com/gaon-park/order_system_vue
-
-> 기술 스택
-
-| 분류        | 기술                     |
-|-----------|------------------------|
-| Language  | - JavaScript           |
-| DB        | - MySQL                |
-| Framework | - Node.js<br/>- Vue.js |
-| AWS       | - EC2                  |
-
-# Skills
-
-| 분류        | 기술                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Language  | - <img  src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=coffeescript&logoColor=white" /><br/>- <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"><br/>- <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&&logoColor=white"><br/>- <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&&logoColor=white"><br/>- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <br/>- <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> |
-| Database  | - <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" /><br/>- <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Framework | - <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" /><br/>- <img src="https://img.shields.io/badge/Spring_boot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"/><br/>- <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">                                                                                                                                                                                                                                                                                                                                                  |
-| Tools     | - <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"/><br/>- <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"><br/>- <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><br/>- <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">                                                                                                                                                                                                                                                            |
-| IDE       | - <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/><br/>- <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"><br/>- <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>                                                                                                                                                                                                                                                                                                                           |
 
 # Algorithm
 
