@@ -163,7 +163,26 @@ BE 5명 (기여도 40%: *서버 개발 기준*)
 
 # Side Project
 
-### 1. 메이플 유틸 사이트 (2023.01 ~ 2023.04)
+### 원격 조종 자동차&에어 컨트롤러 (2023.11)
+
+> 개요
+
+- Raspberry Pi를 이용한 RC Car
+- ESP32와 각종 센서를 이용한 에어 컨트롤러
+- 상세 내용
+	- [ondol velog](https://velog.io/@ondol/series/%EC%9B%90%EA%B2%A9-%EC%A1%B0%EC%A2%85-%EC%9E%90%EB%8F%99%EC%B0%A8%EC%97%90%EC%96%B4-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+	- [repo](https://github.com/gaon-park/rc_car)
+
+> 기술 스택
+
+| 분류        | rc car (raspberry pi)                                                                                              | air controller (esp32 * 2)                                           |
+|----------|--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| language | python                                                                                                             | c++ (arduino)                                                        |
+| protocol | mqtt (broker server, subscriber)                                                                                   | mqtt (publisher)                                                     |
+| others   | - dc motor<br/>- servo motor<br/>- motor hat<br/>- sense hat<br/>- pi camera<br/>- piezo buzzer<br/>- oled display | - mpu6050<br/>- pullup button <br/>- rotary encoder<br/>- 4x4 keypad |
+
+
+### 메이플 유틸 사이트 (2023.01 ~ 2023.04)
 
 > 개요
 
@@ -187,7 +206,7 @@ BE 5명 (기여도 40%: *서버 개발 기준*)
 | Server    | - Nginx (Reverse Proxy)                                           |
 | Tools     | - Docker                                                          |
 
-### 2. 레벨업 페이스 계산기 (2022.10 ~ 2022.11)
+### 레벨업 페이스 계산기 (2022.10 ~ 2022.11)
 
 > 개요
 
@@ -203,7 +222,7 @@ BE 5명 (기여도 40%: *서버 개발 기준*)
 | Framework | SpringBoot |
 | DB        | MySQL      |
 
-### 3. SpringMVC based Mini Instagram (2019.07 ~ 2019.08)
+### SpringMVC based Mini Instagram (2019.07 ~ 2019.08)
 
 > 개요
 
