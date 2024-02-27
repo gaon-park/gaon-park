@@ -4,7 +4,7 @@
 - [Certificates](#certificates)
 - [Careers](#careers)
 - [Experience](#experience)
-- [Side Project](#side-project)
+- [Projects](#projects)
 - [Algorithm](#algorithm)
 
 # Skills
