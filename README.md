@@ -164,6 +164,35 @@ BE 5명 (기여도 40%: *서버 개발 기준*)
 
 # Side Project
 
+### 사내 식당 메뉴 및 재고 실시간 공유 플랫폼  (2024.01 ~ 2024.02)
+
+> 개요
+
+- 멀티캠퍼스(역삼)에서 제공되는 메뉴 및 재고 현황을 파악하는데 있어 징검다리 형식의 소통 프로세스를 단순화
+
+> 기술 스택
+
+| 분류 | 기술 |
+| --- | --- |
+|**Server**||
+| Language | Java |
+| Framework | SpringBoot |
+| DB | MySQL |
+|Infra| Docker |
+|Infra| Jenkins |
+|Infra| Nginx |
+|**Client**||
+| Language | TypeScript |
+| Language | Kotlin |
+| Framework | Nextjs |
+
+> 주요 기능
+
+- 주간 메뉴 제공 (OCR, REST API)
+- 메뉴 별 실시간 재고 확인 (YOLO v8 AI Model 및 CDS 조도 센서 활용)
+- 기존 시스템의 디지털화
+- 모바일 앱 푸시 알림
+
 ### 원격 조종 자동차&에어 컨트롤러 (2023.11)
 
 > 개요
